@@ -11,6 +11,12 @@ services:
     environment:
       POSTGRES_PASSWORD: sifre
 
+#  adminer:
+#    image: adminer
+#    restart: always
+#    ports:
+#      - 8080:8080
+
 
 
 
