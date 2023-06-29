@@ -1,0 +1,2 @@
+http://localhost:8080/books/p?size=3&page=0&sort=id
+http://localhost:8080/books?pageSize=3&page=1

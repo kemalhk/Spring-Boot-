@@ -5,6 +5,10 @@
     <file url="file://$PROJECT_DIR$/spring-boot-aop/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-dockerization/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-dockerization/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-pagination/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-pagination/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rest-template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rest-template/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-datajpa-postgresql/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-datajpa-postgresql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-elasticsearch/src/main/java" charset="UTF-8" />
